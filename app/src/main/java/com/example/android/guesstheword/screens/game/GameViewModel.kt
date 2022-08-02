@@ -142,7 +142,7 @@ class GameViewModel : ViewModel() {
             "jelly",
             "lovely",
             "jellyfish",
-            "coffee",
+            "coffeeMaker",
             "culture",
             "smell",
             "sequence"
